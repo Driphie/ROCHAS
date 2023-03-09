@@ -34,6 +34,9 @@
 #corta{
     padding-top:150px;
 }
+#lisa{
+    padding-top:150px;
+}
 .logo{
     padding: 0  80px;
     position: relative;
@@ -261,6 +264,9 @@ body {
         padding-top:5px;
     }
     #corta{
+        padding-top:5px;
+    }
+    #lisa{
         padding-top:5px;
     }
     .btn_menu{
